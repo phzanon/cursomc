@@ -7,8 +7,8 @@ import org.springframework.stereotype.Service;
 
 import com.pedrozanon.cursomc.domain.Categoria;
 import com.pedrozanon.cursomc.domain.Cliente;
-import com.pedrozanon.cursomc.exceptions.ObjectNotFoundException;
 import com.pedrozanon.cursomc.repositories.ClienteRepository;
+import com.pedrozanon.cursomc.services.exceptions.ObjectNotFoundException;
 
 
 @Service

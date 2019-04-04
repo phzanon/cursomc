@@ -1,4 +1,4 @@
-package com.pedrozanon.cursomc.exceptions;
+package com.pedrozanon.cursomc.services.exceptions;
 
 public class ObjectNotFoundException extends RuntimeException{
 
