@@ -69,4 +69,6 @@ public class ClienteResource {
 		return ResponseEntity.ok().body(listDTO);
 		
 	}
+	
+	
 }
