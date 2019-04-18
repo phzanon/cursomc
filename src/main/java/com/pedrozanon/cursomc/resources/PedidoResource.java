@@ -14,9 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.pedrozanon.cursomc.domain.Categoria;
 import com.pedrozanon.cursomc.domain.Pedido;
-import com.pedrozanon.cursomc.dto.CategoriaDTO;
 import com.pedrozanon.cursomc.services.PedidoService;
 
 
